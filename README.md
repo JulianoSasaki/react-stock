@@ -16,17 +16,26 @@ A aplicação oferece um dashboard interativo que permite visualizar rapidamente
 Cada métrica é exibida de forma clara e acessível, facilitando o acompanhamento em tempo real do status do estoque da loja.
 
 # Tecnologias Utilizadas
+
 React/React-Router: Para a construção da interface do usuário e elaboração das rotas.
+
 JavaScript (ES6+): Lógica da aplicação.
+
 CSS/Styled Components: Para estilização da interface.
+
 Context API: Gerenciamento global de estado para o controle dos dados do estoque.
 
-Instalação e Execução
+
+# Instalação e Execução
+
 Clone o repositório:
+
 git clone https://github.com/JulianoSasaki/react-stock.git
 
 Instale as dependências:
+
 cd react-stock
+
 npm install
 
 Inicie o servidor de desenvolvimento:

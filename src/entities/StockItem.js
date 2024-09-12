@@ -17,7 +17,7 @@ export default class StockItem {
         this.quantity = +quantity
         this.price = +price
         this.category = category
-        this.createdAt = new Date("2024-08-05")
+        this.createdAt = new Date()
         this.updatedAt = new Date()
         this.#validate()
     }

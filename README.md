@@ -13,6 +13,7 @@ A aplicação oferece um dashboard interativo que permite visualizar rapidamente
 - Inventário total: Informa a quantidade total de produtos no estoque.
 - Itens recentes: Uma lista dos itens mais recentemente adicionados ao inventário.
 - Itens acabando: Uma seção dedicada aos produtos que estão com estoque baixo, alertando o usuário para a necessidade de reabastecimento.
+
 Cada métrica é exibida de forma clara e acessível, facilitando o acompanhamento em tempo real do status do estoque da loja.
 
 # Tecnologias Utilizadas
@@ -29,16 +30,19 @@ Context API: Gerenciamento global de estado para o controle dos dados do estoque
 # Instalação e Execução
 
 Clone o repositório:
-
+```
 git clone https://github.com/JulianoSasaki/react-stock.git
+```
 
 Instale as dependências:
-
+```
 cd react-stock
-
 npm install
+```
 
 Inicie o servidor de desenvolvimento:
+```
 npm run dev
+```
 
 Acesse a aplicação com o link que aparecer no terminal.

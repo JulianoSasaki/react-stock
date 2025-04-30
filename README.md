@@ -7,6 +7,9 @@ Este é um projeto completo de simulação de gerenciamento de estoque para uma 
 - Atualizar Produtos: Ajuste qualquer informação necessária dos produtos a qualquer momento.
 - Visualização Dinâmica: A lista de produtos é atualizada automaticamente, garantindo uma visão em tempo real do estoque.
 
+ㅤㅤ
+ㅤ
+ㅤ
 # 📊 Funcionalidades Adicionais do Dashboard
 A aplicação oferece um dashboard interativo que permite visualizar rapidamente as principais métricas do estoque, como:
 - Diversidade de itens: Exibe o número de diferentes tipos de produtos armazenados.
